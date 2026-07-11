@@ -5,7 +5,7 @@
 This project simulates a two-site enterprise network (Headquarters and Branch office) connected over a simulated ISP, built in Cisco Packet Tracer. It demonstrates dynamic routing, first-hop gateway redundancy, NAT-based internet access, inter-site traffic segmentation, and Layer 2 attack prevention — combining core routing/switching concepts with practical network security hardening.
 
 **Tools used:** Cisco Packet Tracer
-
+**How to test:** Click `project.2.pkt` in this repository, then click **Download** to download the `.pkt` file and open it in Cisco Packet Tracer.
 
 ## Objectives
 - Connect HQ and Branch sites using dynamic routing (OSPF), eliminating static route dependencies
